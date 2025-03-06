@@ -1,15 +1,15 @@
 # Getting Started with Depth Estimation
 
-# Depth Data Loading Examples
+## Depth Data Loading Examples
 
 This demonstrates how to load and visualize depth estimation datasets using FiftyOne. Examples include:
 
-## DIODE Dataset
+### DIODE Dataset
 - Loads depth maps from NumPy arrays (.npy files)
 - Handles depth masks for valid measurements
 - Visualizes depth data as heatmaps with appropriate ranges
 
-## NYU Depth V2 Dataset  
+### NYU Depth V2 Dataset  
 - Loads depth maps from PNG image files
 - Organizes data by room type and scene
 - Groups frames to enable video-like visualization
